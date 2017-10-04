@@ -1,3 +1,0 @@
-var sp = require('../..');
-
-sp();
